@@ -1,9 +1,9 @@
 # hyperf-limiter
 hyperf框架api接口限流
 
-[![Latest Stable Version](https://poser.pugx.org/zerduo/rabbitmq-delay/v)](//packagist.org/packages/zerduo/rabbitmq-delay)
-[![Total Downloads](https://poser.pugx.org/zerduo/rabbitmq-delay/downloads)](//packagist.org/packages/zerduo/rabbitmq-delay)
-[![License](https://poser.pugx.org/zerduo/rabbitmq-delay/license)](//packagist.org/packages/zerduo/rabbitmq-delay)
+[![Latest Stable Version](https://poser.pugx.org/zerduo/hyperf-limiter/v)](//packagist.org/packages/zerduo/hyperf-limiter) 
+[![Total Downloads](https://poser.pugx.org/zerduo/hyperf-limiter/downloads)](//packagist.org/packages/zerduo/hyperf-limiter)
+[![License](https://poser.pugx.org/zerduo/hyperf-limiter/license)](//packagist.org/packages/zerduo/hyperf-limiter)
 
 ## Installation
 
